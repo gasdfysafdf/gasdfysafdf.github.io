@@ -3,24 +3,28 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hello! I have been passionate about studying computer science since elementary school.  
+Currently, I am studying at Konyang University in the Department of Enterprise Software, focusing on SAP ABAP and enterprise software solution development.  
+I love learning new technologies and exploring automated solutions to streamline repetitive tasks.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education & Experience
+- Konyang University (2023/03 ~ Present)
+  * Department of Enterprise Software
+  * Learning SAP ABAP, Database Design, and Enterprise Software Development
+- Early Coding Journey
+  * Started self-studying computer science and programming basics since elementary school.
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Certifications
+- SQLD (SQL Developer)
+- AI-POT Level 1 (AI Proficiency Assessment Test)
+
+<br/>
+
+# Interests & Skills
+- **Interests**: Enterprise Software (SAP ABAP), Database Optimization, AI Tools & Automation
+- **Languages & Tools**: SAP ABAP, SQL, Python
+- **Mindset**: I enjoy finding ways to automate tedious processes and always stay curious about emerging tech trends.
