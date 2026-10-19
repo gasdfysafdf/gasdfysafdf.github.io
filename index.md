@@ -10,7 +10,7 @@ I love learning new technologies and exploring automated solutions to streamline
 <br/>
 
 # Education & Experience
-- Konyang University (2023/03 ~ Present)
+- Konyang University (2026/03 ~ Present)
   * Department of Enterprise Software
   * Learning SAP ABAP, Database Design, and Enterprise Software Development
 - Early Coding Journey
